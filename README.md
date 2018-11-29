@@ -1,10 +1,10 @@
 # atcoder
-atcoderで私が解けた問題のソースを貼っています．
+atcoderで私が解けた問題のコード一覧です．
 
-200点以下の問題については解説pdfや解説放送の方が詳しいので省いています．
+200点以下の問題については一部省いています．
 
 ***
 
 There are source codes of atcoder I solved.
 
-About the Task of 200 points or less is omitted because editorial pdf is more detailed.
+About the problem of 200 points or less, I omitted a few
